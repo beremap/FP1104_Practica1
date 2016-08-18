@@ -35,3 +35,12 @@ Legado
 Las contribuciones de Ada Lovelace en el campo de la informática no fueron descubiertos hasta la década de 1950. Sus notas fueron reintroducidos en el mundo por BV Bowden, quien les reeditado en rápido que el pensamiento: un simposio sobre Máquinas de computación digital en 1953. Desde entonces, Ada ha recibido muchos honores póstumos por su trabajo. En 1980, el Departamento de Defensa de Estados Unidos nombró un lenguaje nuevo desarrollo informático "Ada", después de Lovelace.
 
 Revisión de hechos
+
+
+Concepto de Algoritmo
+Los algoritmos son una de las herramientas ha contribuido a que resuelva con mayor eficiencia problemas matemáticos que enfrenta o se plantea en su vida diaria; y precisamente esta necesidad fue la que dio lugar a su invención y desarrollo.
+En el árabe es donde podemos encontrar el origen etimológico del término algoritmo que ahora vamos a analizar en profundidad. Más exactamente se halla en el nombre del matemático Al-Khwarizmi, que nació en la Edad Media en una de las zonas de lo que hoy se conoce como Uzbiekistán, en Asia central.
+
+
+Tecnica de Divide y Venceras
+ El metodo divide y venceras consiste en descomponer el programa que hay que resolver en una serie subproblemas; resolver estos subproblemas y combinar despues los resultados para obtener la solucion del problema original. Lo importante es que los subproblemas son del mismo tipo del problema original, pero de menor taamaño y se resuelven usando la misma tecnica. De esta forma, el etodo se expresa de maner natural mediante un algoritmo recursivo.
